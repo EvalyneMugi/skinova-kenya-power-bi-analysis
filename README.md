@@ -28,3 +28,5 @@ I checked how many customers who bought in May came back in June. Of the 60 May 
 I wanted to see which parts of Skinova Kenya’s product range contributed the most to gross profit. Face & Beauty Products led by a wide margin, and Bioré UV Aqua Rich Watery Essence ranked first among individual products. If I were reviewing what to restock, I’d start with those top contributors and check how steadily they sold throughout the year.
 
 ## Delivery & Order Patterns
+
+![Skinova Delivery & Order Patterns dashboard](Skinova%20Delivery%20Pattern.png)
