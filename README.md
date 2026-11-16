@@ -23,4 +23,4 @@ I checked how many customers who bought in May came back in June. Of the 60 May 
 
 ## Product & Profitability
 
-![Skinova Kenya Product and Profitability dashboard](Skinova%20profit%20and%20profitability.png)
+![Skinova Product & Profitability dashboard](Skinova%20Profit%20%26%20Profitability.png)
