@@ -20,3 +20,5 @@ Using May’s average order value as the baseline, fewer orders explained about 
 ![Skinova Kenya Customer Retention dashboard](Skinova%20Customer%20Retention.png)
 
 I checked how many customers who bought in May came back in June. Of the 60 May buyers I could identify, only 4 bought again in June. Those four placed the same number of orders in both months. Most of the decline came from customers who bought in only one of the two months, a group that placed 59 orders in May and 27 in June.
+
+## Product & Profitability
