@@ -13,3 +13,9 @@ I started by comparing May and June 2025 in Power BI. The reason I choose those 
 To see which change mattered more, I asked a simple question: what would June sales have been if customers had placed the same 52 orders but spent as much per order as they did in May? That put June sales at about KSh 240,000, compared with the actual KSh 218,250.
 
 Using May’s average order value as the baseline, fewer orders explained about 88% of the sales decline. Once I saw that fewer orders explained most of the drop, I wanted to find out where those orders went. I started by checking how many May customers came back in June.
+
+## Customer Retention
+
+![Skinova Kenya Customer Retention dashboard](Skinova%20Customer%20Retention.png)
+
+I checked how many customers who bought in May came back in June. Of the 60 May buyers I could identify, only 4 bought again in June. Those four placed the same number of orders in both months. Most of the decline came from customers who bought in only one of the two months, a group that placed 59 orders in May and 27 in June.
